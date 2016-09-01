@@ -2,22 +2,24 @@
 layout: resume
 title: Resume
 ---
-104 W. Washington St., Iowa City, IA 52242  
-[stella-student@uiowa.edu](mailto:stella-student@uiowa.edu) - (319) 335 - 3331
+222 1/2 E. Washington St., Iowa City, IA 52240  
+[anisshakirah-mohdmuslimin@uiowa.edu](mailto:anisshakirah-mohdmuslimin@uiowa.edu) - (319) 512 - 6424
 
 ### Experience
 
 #### The Daily Iowan
-##### Copy Desk Chief *Jan. - May 2016*
-Brief description here.    
+##### Metro Editor *Jan. 2015 - current*
+* I managed a team of 18 reporters. 
+* I am responsible of copy editing works by my reporters. 
+* I come up with, and assign story ideas for the metro news section of newspaper. 
 
-* list two or three
+
 * important achievements
 
-##### Copy Editor *Sept. 2014 - Dec. 2015*
-Brief description here.    
-
-* list two or three
+##### Metro Reporter *Aug. 2015 - Dec. 2015*
+* Wrote daily stories in the Metro section of The Daily Iowan 
+* Pitched weekly story ideas 
+* My beat was international students at the UI, but I also covered a variety of other stories, from breaking news, local events, workshops, writing features, city council, and higher education
 * important achievements
 * you want to emphasize
 
