@@ -12,9 +12,11 @@ I'm a senior at the Univeristy of Iowa double majoring in Journalism and Mass Co
  
 A news junkie, I hope to use my ability as a journalist to share stories of people, but more importantly, hold powerful individuals and groups accountable. I'm extremely passionate about social issues such as poverty, racism and equality — as seen in some of my writings.
 
-I bring diversity to the table because I come from a minority group. I have proven reporting and writing skills as well as commitment, evident through my work and my service as the Daily Iowan metro editor. I know a third language — I am proficient in the Malay Language, which is similar to the Indonesian Language, while I also have elementary proficiency in both Mandarin and Arabic. My works can be seen on [Daily Iowan](http://daily-iowan.com/?s=anis+shakirah+mohd+muslimin).
+I bring diversity to the table because I come from a minority group. I have proven reporting and writing skills as well as commitment, evident by my work and service at the Daily Iowan. I am capable of communicating in a third language — proficient in the Malay Language, which is similar to the Indonesian Language, while having basic proficient skills in both Mandarin and Arabic. 
 
-As a reporter, I value accuracy, accountability and teamwork. 
+My works can be seen on [Daily Iowan](http://daily-iowan.com/?s=anis+shakirah+mohd+muslimin).
+
+As a reporter, I value accuracy, accountability and teamwork. Personally as an individual I value diversity, justice, freedome, faith and education. 
 
 ### Social media
 
