@@ -66,8 +66,11 @@ Prepared pizzas and sandwichs and sanitized duties to meet required standards.
 #### Majlis Amanah Rakyat 
 Full Academic Scholarship to study in the United States 2013-2017
 
-#### Leon Barnes Community Journalism Scholarship *Spring 2016*
-#### Ruth A. Wilson Memorial Scholarship *Spring 2016*
+#### Leon Barnes Community Journalism Scholarship 
+* Spring 2016
+
+#### Ruth A. Wilson Memorial Scholarship 
+* Spring 2016
 
 
 ### Skills
