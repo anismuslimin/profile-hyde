@@ -43,11 +43,14 @@ Prepared pizzas and sandwichs and sanitized duties to meet required standards.
 
 #### Iowa Students Psychology Association (ISPA)
 * member Aug. 2014 - present
+
 #### University of Iowa Malaysian Student Association   
 * member Aug. 2013 - present
 * Fundraiser April 2015 - May 2016
+
 #### Civic Science Corps University of Iowa 
 * Sept. 2014 - November 2014
+
 #### University of Iowa International Student Advisory Board
 * Aug. 2016 - present
 
