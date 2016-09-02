@@ -1,6 +1,6 @@
 ---
 layout: default
-title:home
+title: clips
 ---
 Some clips of my work:
 
