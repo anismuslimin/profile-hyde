@@ -9,9 +9,9 @@ title: Resume
 
 #### The Daily Iowan
 ##### Metro Editor *Jan. 2015 - current*
-* I managed a team of 18 reporters. 
-* I am responsible of copy editing works by my reporters. 
-* I come up with, and assign story ideas for the metro news section of newspaper. 
+* I managed a team of 18 reporters 
+* I am responsible of copy editing works by my reporters 
+* I come up with, and assign story ideas for the metro news section of newspaper 
 
 
 * important achievements
@@ -23,19 +23,26 @@ title: Resume
 * important achievements
 * you want to emphasize
 
+#### The Quad City Times
+##### Breaking News Intern Covered breaking news within the Quad Cities.
+* Wrote features stories
+* Occasionally did general assignments
+* Live tweeted events
+* Would occasionally take photos for stories
 
-#### University of Iowa Hospitals and Clinics
-##### Food service supervisor *Jan. - May 2016*
-Very brief description here. No bullets.  
+#### University of Iowa Housing and Dinning 
+##### Retail Dinning Associate *Aug 2015 - current*
+Prepared pizzaes and sandwichs and sanitized duties to meet required standards.  
 
 
 ### College Activities
-#### Sigma Delta Chi
-Brief explanation
+#### Iowa Students Psychology Association (ISPA)
+#### University of Iowa Malaysian Student Association   
 
-* President Jan. 2016 - present
-* Secretary Sept. 2015 - Jan. 2016
-* Member  Sept. 2014 - present
+
+* member Aug. 2013 - present
+* Fundraiser April 2015 - May 2016
+
 
 
 #### Iowa Raptor Project
