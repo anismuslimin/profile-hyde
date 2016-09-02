@@ -7,7 +7,7 @@ title: Home
 
 I'm the metro editor at [the Daily Iowan](http://daily-iowan.com) and a member of the University of Iowa [School of Journalism and Mass Communication](http://clas.uiowa.edu/sjmc/) Class of 2017.
 
-I have proven expertise in [journalistic reporting and writing](https://muckrack.com/anis-shakirah-mohd-muslimin/portfolio), [multimedia storytelling](https://www.youtube.com/channel/UCOVUjd9aOG6UZXVFbZZb2Pw). I am currently on University of Iowa [International Student Advisory Board](https://uisg.uiowa.edu/index.php/news/apply-for-international-student-advisory-board/). I'm a news junkie and I hope to use my ability as a journalist to share stories of people, but more importantly, hold powerful individuals and groups accountable. I'm extremely passionate about social issues such as poverty, racism, and equality, as seen in some of my writings.
+I have proven expertise in [journalistic reporting and writing](https://muckrack.com/anis-shakirah-mohd-muslimin/portfolio) and [multimedia storytelling](https://www.youtube.com/channel/UCOVUjd9aOG6UZXVFbZZb2Pw). I am currently on University of Iowa [International Student Advisory Board](https://uisg.uiowa.edu/index.php/news/apply-for-international-student-advisory-board/). I'm a news junkie and I hope to use my ability as a journalist to share stories of people, but more importantly, hold powerful individuals and groups accountable. I'm extremely passionate about social issues such as poverty, racism, and equality, as seen in some of my writings.
 
 ### Social media
 
