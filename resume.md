@@ -76,7 +76,9 @@ Full Academic Scholarship to study in the United States 2013-2017
 ### Skills
 
 #### Reporting, writing, editing
+
 #### Writing for the web (e.g., SEO Headlines, Keywords)
+
 #### Audio and visual storytelling and editing
 * FinalCut Pro
 * Adobe Premiere Pro
@@ -89,5 +91,6 @@ Full Academic Scholarship to study in the United States 2013-2017
 
 
 ### Education
+
 #### University of Iowa
 Bachelor of Arts in Journalism and Mass Communication and Psychology *anticipated May 2017* 
