@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About
+title: clips
 ---
 
 ![logo](public/AnisMug.jpg)
