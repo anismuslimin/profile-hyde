@@ -38,11 +38,12 @@ For class, I wrote a feature story surrounding several first generation students
 
 Here are several videos/documentaries that I made for this project 
 
-First Generation Students:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xg983YYTduU" frameborder="0" allowfullscreen></iframe>
+<h3>First Generation Students:</h3>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/Xg983YYTduU" frameborder="0" allowfullscreen></iframe>
 
-Stacey Murray: A feature story: 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zZTHzaKdKYE" frameborder="0" allowfullscreen></iframe>
+<h3>Stacey Murray: A feature story:</h3>
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/zZTHzaKdKYE" frameborder="0" allowfullscreen></iframe>
+
 
 
 
