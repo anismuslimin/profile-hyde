@@ -15,8 +15,6 @@ As a reporter, I value accuracy, accountability and teamwork.
 
 Learn more and contribute on [GitHub](https://github.com/poole).
 
-## Setup
-
 Some clips of my work:
 
 ### The Daily Iowan 
