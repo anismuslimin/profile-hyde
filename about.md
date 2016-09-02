@@ -16,7 +16,7 @@ I bring diversity to the table because I come from a minority group. I have prov
 
 My works can be seen on [Daily Iowan](http://daily-iowan.com/?s=anis+shakirah+mohd+muslimin).
 
-As a reporter, I value accuracy, accountability and teamwork. Personally as an individual I value diversity, justice, freedome, faith and education. 
+As a reporter, I value accuracy, accountability and teamwork. Personally as an individual I value diversity, justice, freedom, faith and education. 
 
 ### Social media
 
