@@ -8,6 +8,7 @@ title: Resume
 ### Experience
 
 #### The Daily Iowan
+
 ##### Metro Editor *Jan. 2015 - current*
 * I managed a team of 18 reporters 
 * I am responsible of copy editing works by my reporters 
@@ -24,13 +25,16 @@ title: Resume
 * you want to emphasize
 
 #### The Quad City Times
-##### Breaking News Intern Covered breaking news within the Quad Cities.
+
+##### Breaking News Intern
+* Covered breaking news within the Quad Cities.
 * Wrote features stories
 * Occasionally did general assignments
 * Live tweeted events
 * Would occasionally take photos for stories
 
 #### University of Iowa Housing and Dinning 
+
 ##### Retail Dinning Associate *Aug 2015 - current*
 Prepared pizzaes and sandwichs and sanitized duties to meet required standards.  
 
