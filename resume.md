@@ -10,9 +10,7 @@ title: Resume
 #### The Daily Iowan
 
 ##### Metro Editor *Jan. 2015 - current*
-* I managed a team of 18 reporters 
-* I am responsible of copy editing works by my reporters 
-* I come up with, and assign story ideas for the metro news section of newspaper 
+As metro editor, I managed a team of 18 reporters while also being responsible of copy editing their works. I come up with, and assign story ideas for the metro news section of newspaper 
 
 
 * important achievements
