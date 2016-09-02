@@ -12,6 +12,8 @@ This an opinion piece I wrote after the French Government announced the burqini 
 
 #### Wage gap persist at the University of Iowa
 
+![logo](unnamed-692x360.jpg)
+
 The wage gap between male and female faculty members across the United States has always been a hotly constested issue. After going over data from the American Association of University Professors, I noticed a salary gap between male and female faculty, and I decided to get a better understanding of the issue by talking to school officials about it. The conclusion that I got that from my mini investigation is that a gap indeed exist, however, some school administrators insist that these numbers should not be taken at face value. For more info check it out at the [Daily Iowan](http://daily-iowan.com/2016/04/14/wage-gap-persists-at-ui/) 
 
 #### Tattoos in the workplace raise eyebrows
