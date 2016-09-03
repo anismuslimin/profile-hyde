@@ -36,7 +36,7 @@ While on my summer internship at the Quad City Times in Davenport, Iowa, I wrote
 
 (Credits: The Muscatine Journal)
 
-Brandon Brown, 35, of Wapello, Iowa, is a high school teacher who hand makes duck calls. Despite his tight work schedule that involves teaching and coaching, he still finds time to make duck calls just because of how passionate he is about it. This was a fun feature I wrote for the Muscatine Journal, who are associated with the Quad City Times. This story was picked up the AP wire in Iowa, and the [Des Moines Register](http://www.desmoinesregister.com/story/news/2016/08/20/wapello-teacher-makes-duck-calls-hand/88960562/) and even the [Miami Herald](http://www.miamiherald.com/news/business/article96356132.html) shared my story. 
+Brandon Brown, 35, of Wapello, Iowa, is a high school teacher who hand makes duck calls. Despite his tight work schedule that involves teaching and coaching, he still finds time to make duck calls just because of how passionate he is about it. This was a fun feature I wrote for the Muscatine Journal, who are associated with the Quad City Times. This story was picked up by the AP wire in Iowa, and the [Des Moines Register](http://www.desmoinesregister.com/story/news/2016/08/20/wapello-teacher-makes-duck-calls-hand/88960562/) and even the [Miami Herald](http://www.miamiherald.com/news/business/article96356132.html) shared my story. 
 
 #### First Generation students: A feature story
 
