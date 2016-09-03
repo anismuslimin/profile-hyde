@@ -20,7 +20,7 @@ This is an opinion piece I wrote after the French Government announced the burqi
 
 (Credits: The Daily Iowan)
 
-The wage gap between male and female faculty members at American Colleges across the country has always been a hotly constested issue. After going over data from the American Association of University Professors, I noticed a salary gap between male and female faculty members at the University of Iowa, hence the story. The conclusion that I made from my mini investigation was that a gap indeed existed, however, some school administrators insisted that these numbers should not be taken at face value. For more info check it out at the [Daily Iowan](http://daily-iowan.com/2016/04/14/wage-gap-persists-at-ui/) 
+The wage gap between male and female faculty members at American Colleges across the country has always been a hotly contested issue. After going over data from the American Association of University Professors, I noticed a salary gap between male and female faculty members at the University of Iowa, hence the story. The conclusion that I made from my mini investigation was that a gap indeed existed, however, some school administrators insisted that these numbers should not be taken at face value. For more info check it out at the [Daily Iowan](http://daily-iowan.com/2016/04/14/wage-gap-persists-at-ui/) 
 
 #### Tattoos in the workplace raise eyebrows
 
