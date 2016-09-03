@@ -2,7 +2,7 @@
 layout: page
 title: About
 ---
-![logo](public/AnisMug.jpg)
+![logo](public/)
 
 I'm the metro editor at [the Daily Iowan](http://daily-iowan.com) and a member of the University of Iowa [School of Journalism and Mass Communication](http://clas.uiowa.edu/sjmc/) Class of 2017.
 
